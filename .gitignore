@@ -142,3 +142,7 @@ datalake/*
 # Storage
 storage/*
 !storage/readme.md
+
+# IDE
+.vscode/
+.vscode/*
